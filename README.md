@@ -1,4 +1,5 @@
 # Delta Modulation (DM)
+  JEFRIN INOLA J (212223060104).
 
 ## Aim  
 To perform Delta Modulation (DM) on a continuous signal and analyze its reconstruction.  
